@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+#container {
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#btn {
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    margin: 20px 3px;
+}
+
+select {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+h1 {
+    padding-bottom: 18px;
+    border-bottom: 1px solid grey;
+}
